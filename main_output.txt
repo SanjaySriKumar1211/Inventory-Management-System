@@ -1,0 +1,82 @@
+
+Inventory Management System
+1. Add Product
+2. Display Products
+3. Update Stock
+4. Remove Product
+5. Exit
+Enter your choice: 
+1
+Enter product ID: 
+101
+Enter product name: 
+HP laptop
+Enter product quantity: 
+20
+Enter product price: 
+2450000
+Product added successfully!
+
+Inventory Management System
+1. Add Product
+2. Display Products
+3. Update Stock
+4. Remove Product
+5. Exit
+Enter your choice: 
+2
+
+Product Inventory:
+ID	Name		Quantity	Price
+101	HP laptop           	20		2450000.00
+
+Inventory Management System
+1. Add Product
+2. Display Products
+3. Update Stock
+4. Remove Product
+5. Exit
+Enter your choice: 
+3
+Enter product ID to update: 
+101
+Enter new quantity for HP laptop: 
+20
+Stock updated successfully!
+
+Inventory Management System
+1. Add Product
+2. Display Products
+3. Update Stock
+4. Remove Product
+5. Exit
+Enter your choice: 
+4
+Enter product ID to remove: 
+101
+Product removed successfully!
+
+Inventory Management System
+1. Add Product
+2. Display Products
+3. Update Stock
+4. Remove Product
+5. Exit
+Enter your choice: 
+3
+Enter product ID to update: 
+101
+Product ID not found.
+
+Inventory Management System
+1. Add Product
+2. Display Products
+3. Update Stock
+4. Remove Product
+5. Exit
+Enter your choice: 
+5
+Exiting the system...
+
+
+** Process exited - Return Code: 0 **
